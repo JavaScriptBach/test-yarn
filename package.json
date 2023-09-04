@@ -1,4 +1,8 @@
 {
   "name": "test-yarn",
-  "packageManager": "yarn@3.6.3"
+  "packageManager": "yarn@3.6.3",
+  "workspaces": [
+    "a/*",
+    "b/*"
+  ]
 }
