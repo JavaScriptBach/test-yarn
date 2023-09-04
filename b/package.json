@@ -2,6 +2,6 @@
   "name": "b",
   "packageManager": "yarn@3.6.3",
   "dependencies": {
-    "mongoose": "^7.5.0"
+    "mongoose": "7.5.0"
   }
 }

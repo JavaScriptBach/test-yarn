@@ -42,7 +42,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "a@workspace:a"
   dependencies:
-    mongoose: ^7.5.0
+    mongoose: 7.5.0
   languageName: unknown
   linkType: soft
 
@@ -50,7 +50,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "b@workspace:b"
   dependencies:
-    mongoose: ^7.5.0
+    mongoose: 7.5.0
   languageName: unknown
   linkType: soft
 
@@ -136,7 +136,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mongoose@npm:^7.5.0":
+"mongoose@npm:7.5.0":
   version: 7.5.0
   resolution: "mongoose@npm:7.5.0"
   dependencies:
